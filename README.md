@@ -1,2 +1,11 @@
 # sm_res_mkt
- blacklisted companies market performace
+
+## TOOLs
+Programming language --> R 
+Jupyter Lab
+
+
+## 
+
+
+
